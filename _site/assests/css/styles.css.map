@@ -1,0 +1,20 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.sass",
+		"_sass/main.sass",
+		"_sass/_variables.scss",
+		"_sass/_header.sass",
+		"_sass/_body.sass"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		"@import \"_variables\";\n@import \"_header\";\n@import \"_body\";\n\n",
+		"$primary-font-color: rgb(255, 251, 0);\r\n\r\n$primary-bg: aqua;\r\n$secondary-bg: #AD5C8E;",
+		".header {\n    color: $primary-font-color;\n    background-color: $secondary-bg; }\n",
+		".main_content {\n    background-color: $primary-bg; }\n\n"
+	],
+	"names": [],
+	"mappings": "AGAA,AAAA,OAAO,AAAC,CACJ,KAAK,CDDY,OAAgB,CCEjC,gBAAgB,CDCL,OAAO,CCDgB,ACFtC,AAAA,aAAa,AAAC,CACV,gBAAgB,CFCP,IAAI,CEDmB"
+}
