@@ -21,7 +21,7 @@
 baseurl: "/skyluxe" # the subpath of your site, e.g. /blog
 
 # the base hostname & protocol for your site, e.g. http://example.com
-url: https://skyluxeroofing.com/ # was trolling-on-the-moon.github.io 
+url: skyluxeroofing.com # was trolling-on-the-moon.github.io 
 
 sass:
   sass_dir: _sass
